@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    background-color: blanchedalmond;
+}
+img{
+    border: 10px solid black;
+    margin-left: 37%;
+}
+
+h3{
+    font-style: italic;
+    background-color: antiquewhite;
+    color: blue;
+    text-align: center;
+}
